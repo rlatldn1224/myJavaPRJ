@@ -8,8 +8,8 @@ public class Ex2 {
 
         int a, b;
 
-        a = sc.nextInt();
-        b = sc.nextInt();
+        a = sc.nextInt(3);
+        b = sc.nextInt(1);
 
         System.out.println(a-b);
 

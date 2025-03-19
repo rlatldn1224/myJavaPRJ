@@ -15,7 +15,7 @@ public class Baek9498 {
             System.out.println("C");
         } else if (score >= 60) {
             System.out.println("D");
-        } else if (score >= 50) {
+        } else {
             System.out.println("F");
         }
 

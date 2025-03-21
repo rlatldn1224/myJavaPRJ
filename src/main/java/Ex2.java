@@ -9,7 +9,9 @@ public class Ex2 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println(b - a);
+        System.out.println(a -b);
+
+        sc.close();
     }
 
 
